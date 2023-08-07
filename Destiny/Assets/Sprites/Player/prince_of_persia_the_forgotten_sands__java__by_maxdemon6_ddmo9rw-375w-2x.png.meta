@@ -1,0 +1,877 @@
+fileFormatVersion: 2
+guid: b01b786cbe63a6647b9ceba790173db6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6280606200543566358
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_23
+  - first:
+      213: -890451312023259212
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_24
+  - first:
+      213: 4815756205400520490
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_25
+  - first:
+      213: 4804099953487427123
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_26
+  - first:
+      213: -5020457617276973164
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_27
+  - first:
+      213: 8061378075604280610
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_28
+  - first:
+      213: 343553949168201811
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_29
+  - first:
+      213: -8641877745091455581
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_30
+  - first:
+      213: 3599202389012489814
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_31
+  - first:
+      213: 4153865057934812941
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_32
+  - first:
+      213: -977827865967483962
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_33
+  - first:
+      213: 4726325321320198754
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_34
+  - first:
+      213: -6226137670970402634
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_35
+  - first:
+      213: -1005403485622443041
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_36
+  - first:
+      213: 6823898985787069237
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_37
+  - first:
+      213: 85528694767987350
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_38
+  - first:
+      213: -3456264586612111389
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_39
+  - first:
+      213: -650962777807471120
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_40
+  - first:
+      213: 4785455339628251749
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_41
+  - first:
+      213: 1897497555832508294
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_42
+  - first:
+      213: 2944867502715664720
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_43
+  - first:
+      213: -4806089704501646679
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_44
+  - first:
+      213: 3400189424921775491
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_45
+  - first:
+      213: -1613458552317876705
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_46
+  - first:
+      213: -7758980966533314296
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_47
+  - first:
+      213: -4110742895892739794
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_48
+  - first:
+      213: 34745662831261620
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_49
+  - first:
+      213: 4411642219858548150
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_50
+  - first:
+      213: 7190246413745261649
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_51
+  - first:
+      213: 5410503831530541342
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_52
+  - first:
+      213: -8808155126172727877
+    second: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_57
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_23
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 427
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae52c7acfedc6d8a0800000000000000
+      internalID: -6280606200543566358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_24
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 427
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7b211ef3b74a3f0800000000000000
+      internalID: -890451312023259212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 300
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27f7cbf0c005d240800000000000000
+      internalID: 4815756205400520490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 300
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336b61954779ba240800000000000000
+      internalID: 4804099953487427123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 300
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f4d488560c35ab0800000000000000
+      internalID: -5020457617276973164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 300
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225e38416a4cfdf60800000000000000
+      internalID: 8061378075604280610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 300
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3507a5d1f7c84c400800000000000000
+      internalID: 343553949168201811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_30
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 300
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5587b3af1e11880800000000000000
+      internalID: -8641877745091455581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_31
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 300
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656a3dfd08fe2f130800000000000000
+      internalID: 3599202389012489814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 300
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07ac17134e75a930800000000000000
+      internalID: 4153865057934812941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_33
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 300
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3a7859cbe0e62f0800000000000000
+      internalID: -977827865967483962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_34
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 300
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262793ea6d7479140800000000000000
+      internalID: 4726325321320198754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_35
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 300
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8912796c05899a0800000000000000
+      internalID: -6226137670970402634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_36
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 300
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3e88f4bd61c02f0800000000000000
+      internalID: -1005403485622443041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_37
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 216
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5339cf619fb53be50800000000000000
+      internalID: 6823898985787069237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 216
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69aafbd05ebdf2100800000000000000
+      internalID: 85528694767987350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_39
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 216
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e70939aba1e800d0800000000000000
+      internalID: -3456264586612111389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_40
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 216
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdb8c27dc057f6f0800000000000000
+      internalID: -650962777807471120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_41
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 216
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ac907e64a596240800000000000000
+      internalID: 4785455339628251749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_42
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 216
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f819149f3455a10800000000000000
+      internalID: 1897497555832508294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 216
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05975f124654ed820800000000000000
+      internalID: 2944867502715664720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_44
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 216
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa6484a0e65d4db0800000000000000
+      internalID: -4806089704501646679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_45
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 216
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d80895446ef2f20800000000000000
+      internalID: 3400189424921775491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_46
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 216
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16e641cef7db99e0800000000000000
+      internalID: -1613458552317876705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_47
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 216
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809c3c67bef825490800000000000000
+      internalID: -7758980966533314296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 136
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e294a57ad15b3f6c0800000000000000
+      internalID: -4110742895892739794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 136
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7fa8a0ff07b7000800000000000000
+      internalID: 34745662831261620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_50
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 135
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5d8ce993d493d30800000000000000
+      internalID: 4411642219858548150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 135
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c00da8403e8c360800000000000000
+      internalID: 7190246413745261649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_52
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 135
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1194469198f51b40800000000000000
+      internalID: 5410503831530541342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prince_of_persia_the_forgotten_sands__java__by_maxdemon6_ddmo9rw-375w-2x_57
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 54
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb540f1949523c580800000000000000
+      internalID: -8808155126172727877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
